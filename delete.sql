@@ -1,0 +1,9 @@
+delete from incidents;
+delete from rent;
+delete from users;
+delete from bike_stock;
+delete from additional_features_stock;
+delete from additional_features_size;
+delete from sizes;
+delete from bikes;
+delete from additional_features;
